@@ -1,0 +1,280 @@
+[[SoapyRemote]]
+arch = "aarch64"
+git-tree-sha1 = "78e33fb101a5edcdb18069231c3fbf0d672ba0d7"
+os = "macos"
+
+    [[SoapyRemote.download]]
+    sha256 = "e0fda4f215c155b1e46e42f55534127b5af0956f175e01125d51fa408d57f660"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.aarch64-apple-darwin.tar.gz"
+[[SoapyRemote]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5c1d8609dd19549830285836032a1c47176e680b"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "b1ea1f1c199c5b1397ed47dbe57496380ee0a44ad2e3664d9b8b50d474c516bb"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[SoapyRemote]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "01108d033f61cbb1ef78664f07d1f1c2c186171e"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "7b44a66688926ba71927b165142f4773afb6bd8e168e82608acee52833b1a42e"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[SoapyRemote]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "42ed9e11985468506403a24310b8caccce7d9a0e"
+libc = "musl"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "47683ce6d26bc9dbcf8cb04091ce45749008fba10e6260b7385be151cb6862e6"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.aarch64-linux-musl-cxx03.tar.gz"
+[[SoapyRemote]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "59fd9529e8f78ee228b0a804837897eb95468e5a"
+libc = "musl"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "7dddc5f2f693fea6d8743fda4cac70dccbc4e15e667e2a9d840c6bbf179a1b91"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.aarch64-linux-musl-cxx11.tar.gz"
+[[SoapyRemote]]
+arch = "aarch64"
+git-tree-sha1 = "8880e5001c2f8a27d38bc434ba0e08ea87ad5112"
+os = "freebsd"
+
+    [[SoapyRemote.download]]
+    sha256 = "951ab525577ed3f3fd4bddcfe7501db88001c0d49878d89f7cb96c6aa6516695"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.aarch64-unknown-freebsd.tar.gz"
+[[SoapyRemote]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0b30042fd93b60b0e036673b8b9c7516bc21cc21"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "45d97a06ccb41d25e96887b8725a79b6e7272cbe821b321d822a0494ef10d3a0"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[SoapyRemote]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2456c7fa3ae645121ef97f9522496c0ec7433053"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "c425d35e72f02d699c79e4b0661e4272d79f345798fb4698a425d0ddce9f3b92"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[SoapyRemote]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "96aa12639d55bc9e85c97fc320e24a2b0f221cf0"
+libc = "musl"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "b5121851b4c1543d8708a14ca04317310e38ddabcb02b57c5916425c92845c0d"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[SoapyRemote]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b27c9d25626591d8c2fc782d9a33e7a6a2d4b30e"
+libc = "musl"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "feded6c8587c3c117360d0a6b3a4c28fe311c9142dfd95c00306b0662a100641"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[SoapyRemote]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "085651ca4e79cb3758a5491285fbb1690abbea5c"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "a667e9e7741dd92b83cc6c9d76ef309978d4ba12f2ec71a39076382c8b235168"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[SoapyRemote]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a4a2ce354140eb5abfbecb16c694fc743e2df51c"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "a2b8fae77b72a44f0bf5d9fb045935549a9c1e27a3d4a75b7c5cf4ad220e8eb3"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[SoapyRemote]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5aa6fe6e0d6e4b50561f3e49d806bd20fc823590"
+libc = "musl"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "227f3230dbcc716182ab199cb00c64828d70e65475bf0e811db5c082d2f9e9a1"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[SoapyRemote]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "237dce71a547dba6d4b4fe01cb000e4986c9113c"
+libc = "musl"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "4265249e5f835746042e8f2abc65ebc1005d0fb44ae2049e104e20c09bab2108"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[SoapyRemote]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4ec82d208dc9319402f0b4e71953f0a91f397f6c"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "121fcb83722b6c9fa3b61a6a1ffef3b2efc4d84aa50fa26c926c45d6315e957f"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.i686-linux-gnu-cxx03.tar.gz"
+[[SoapyRemote]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "352a9cc36ea9a34b5e28fd2f79ad1c846d4febe4"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "81a5a879f33f22b1ac11364755ba8bae6a9036247f9dc7b7640d4a2a99769955"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.i686-linux-gnu-cxx11.tar.gz"
+[[SoapyRemote]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "743fa70e451ded7a07799ad0dec2795ca919ecc7"
+libc = "musl"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "7e58707189fd6d08c93a284e1e71d41cab8393863025eb3ed6d5460edb43acfa"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.i686-linux-musl-cxx03.tar.gz"
+[[SoapyRemote]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1faf0480884087ecff6027f61d28ac9212f8837b"
+libc = "musl"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "c58dc6a3a03524662ef28704337283d5c7ddd7737c8edd80ff43ddaec338ef61"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.i686-linux-musl-cxx11.tar.gz"
+[[SoapyRemote]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "027903d0e602d88eaa0ceee0f149c1dca972a45f"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "812537ba1596ec3f5b47932d756b0c3bdced8f15f8ad9e4677176bcdf0a84102"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[SoapyRemote]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "445226727e40c3469273b33a2685b911ff1142de"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "d37a81a741475415210bf419b73e67745c82b7b288ccca84f4f56da0cc027ab3"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[SoapyRemote]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bb11a6b3ce078635987cf4bca22136c278e1a357"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "0d0565a7d4520a6120a3e96aa65ea795ab8a3f5274b84ec42581881e3c30793b"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.riscv64-linux-gnu-cxx03.tar.gz"
+[[SoapyRemote]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b7405774b7c47bb04455fc7e87c8dd51e869565b"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "79558ecca7639130d27469d63dbfa1fd0c9bb307ecc6af1d54935aa3df58968f"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.riscv64-linux-gnu-cxx11.tar.gz"
+[[SoapyRemote]]
+arch = "x86_64"
+git-tree-sha1 = "f1375df7a5897de4e9a61a829900829ea29e3e7a"
+os = "macos"
+
+    [[SoapyRemote.download]]
+    sha256 = "90c2aa68995f645e8e1b82405070aedef69f9ec35a80a8dffc65f08e85d8bcf9"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.x86_64-apple-darwin.tar.gz"
+[[SoapyRemote]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7e3354499efc4c1f05af3bfaeb319c557d5ebff7"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "de318f90482a04bd62f01256a074d526f59832881b8ce90e19279d85de526a3b"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[SoapyRemote]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c37f7e5ce33a44c13ff8992df0b7bcb6341d6a58"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "521b0dcd8d762dd07114f416cb9626cab329d36981104dbf1f583e5416193ca3"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[SoapyRemote]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "717b40567146251039b266494baa6c24a67a3c53"
+libc = "musl"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "3f3314639a954aab3b5f575890a9210309012330197da756e983e3b55f8546a9"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.x86_64-linux-musl-cxx03.tar.gz"
+[[SoapyRemote]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8d1f5dc0e8efbb88ce55395c2f7d8b73fc2db04a"
+libc = "musl"
+os = "linux"
+
+    [[SoapyRemote.download]]
+    sha256 = "e719aa4c97e425a906f3ecdd33888536bc1637870483f427de2b4521929d3a5a"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.x86_64-linux-musl-cxx11.tar.gz"
+[[SoapyRemote]]
+arch = "x86_64"
+git-tree-sha1 = "b4d6cbe335fe3b78a47369b3ac537241967a9bb0"
+os = "freebsd"
+
+    [[SoapyRemote.download]]
+    sha256 = "f564c73d9369e90869ab179eb77d35e783bd15a622dea313096f03c0e6357b08"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRemote_jll.jl/releases/download/SoapyRemote-v0.5.2+0/SoapyRemote.v0.5.2.x86_64-unknown-freebsd.tar.gz"
